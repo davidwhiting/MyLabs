@@ -1,0 +1,11 @@
+# create a virtual environment
+python -m venv virtual
+source virtual/bin/activate
+
+# to deactivate
+source virtual/bin/deactivate
+
+# Now we can do pip install, etc. within the virtual environment
+# It will be important to capture what is installed here, but the
+# virtual environment is not directly portable and won't be included
+# in the git repository
