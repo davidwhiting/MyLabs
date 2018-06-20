@@ -1,0 +1,5 @@
+# virtual environment
+virtual/
+
+# ipython notebook intermediate files
+.ipynb_checkpoints/
